@@ -16,7 +16,7 @@ function App() {
   }
 
   useEffect(() => {
-    const wss = new WebSocket('ws://localhost:8080');
+    const wss = new WebSocket('wss://ping-pong-websocket-1.onrender.com');
     setSocket(wss);
 
     wss.onmessage = (ev: MessageEvent) => {
