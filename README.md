@@ -1,7 +1,7 @@
 # 📡 Ping-Pong WebSocket Application
 
 ---
-Live : **https://broadcasting-chat-app.netlify.app/**
+Live : **https://musical-sable-98797d.netlify.app/**
 ---
 
 This is a simple **WebSocket-based Ping-Pong app** built with **React** for the frontend and **Node.js** for the backend.
